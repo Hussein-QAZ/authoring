@@ -8,7 +8,7 @@
 
 ## External Link
 
-[github documentation](https://help.github.com/en)
+[Github documentation](https://help.github.com/en)
 
 ## Internal Link 
 
